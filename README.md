@@ -1,2 +1,2 @@
 # vivek_goyal_competishun
-This is my first project in team Competisuhun
+This is my first project in team Competishun
